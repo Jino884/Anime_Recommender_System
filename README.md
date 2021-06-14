@@ -12,7 +12,7 @@ __Surprise Github:__ https://github.com/NicolasHug/Surprise
 __Anime Dataset:__ [Dataset](https://github.com/Jino884/Anime_Recommender_System/tree/main/Data) or https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 ## Data Cleaning
-Follow the coding [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Cleaning.ipynb).                                       
+Follow the coding: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Cleaning.ipynb).                                       
 An anime dataset (_anime.csv) (for exploration)
 * __genre__ -- fill null with the string "no detail".
 * __type__ -- fill null with the string "etc".
@@ -26,5 +26,6 @@ A rating dataset (_rating_) (for creating the model)
 After cleaning data you will obtain anime_C.csv and rating_C.csv which are cleaned anime dataset and cleaned rating dataset respectively.
 
 ## EDA
-Follow the coding [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Exploratory.ipynb).                                          
+Follow the coding: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Exploratory.ipynb).        
+[](https://github.com/Jino884/Anime_Recommender_System/blob/main/types%20of%20anime.png)
 
