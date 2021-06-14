@@ -4,6 +4,8 @@
 
 # Code and Resources Used
 __Python:__ 3.8.3
+
 __Package:__ pandas, numpy, matplotlib, seaborn, surprise, IPython.display, re
+
 __Surprise desktop:__ http://surpriselib.com/
 
