@@ -13,7 +13,10 @@ __Surprise Github:__ https://github.com/NicolasHug/Surprise
 ## Data Cleaning
 An anime dataset (for exploration)
 * __genre__ -- fill null with the string "no detail".
-* __type__ -- fill null with "etc".
-* __episodes__ -- change 1 to "movie"
+* __type__ -- fill null with the string "etc".
+* __episodes__ -- change value 1 to the string "movie"
 * __rating__ -- fill na with 0 that represent no data
+
+A rating dataset (for creating the model)
+* __rating__ -- Change the value -1 to 0
 
