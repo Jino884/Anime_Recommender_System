@@ -4,15 +4,15 @@
 
 ## Code and Resources Used
 
-__Python:__ 3.8.3 
-__Coding Tools:__ Jupyter, Google Colab
+> __Python:__ 3.8.3 
+> __Coding Tools:__ Jupyter, Google Colab
 __Package:__ pandas, numpy, matplotlib, seaborn, surprise, IPython.display, re 
 __Surprise Desktop:__ http://surpriselib.com/
 __Surprise Ducumentation:__ https://surprise.readthedocs.io/en/stable/
 __Surprise Github:__ https://github.com/NicolasHug/Surprise
 
 ## Data Cleaning
-#### An anime dataset (for exploration)
+An anime dataset (for exploration)
 * __genre__ -- fill null with the string "no detail".
 * __type__ -- fill null with "etc".
 * __episodes__ -- change 1 to "movie"
