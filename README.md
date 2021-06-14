@@ -7,7 +7,7 @@ __Python:__ 3.8.3
 __Coding Tools:__ Jupyter, Google Colab                                                                                       
 __Package:__ pandas, numpy, matplotlib, seaborn, surprise, IPython.display, re                                                                                 
 __Surprise Desktop:__ http://surpriselib.com/                                                                                                       
-__Surprise Ducumentation:__ https://surprise.readthedocs.io/en/stable/
+__Surprise Ducumentation:__ https://surprise.readthedocs.io/en/stable/                                                                        
 __Surprise Github:__ https://github.com/NicolasHug/Surprise
 
 ## Data Cleaning
