@@ -1,14 +1,15 @@
-## Data Scoence Project: Anime Recommender System
-* Explore the anime dataset to overview the amine charasteristic and featuring analysis.
+## Data Science Project: Anime Recommender System
+* Exploring the anime dataset to overview the amine charasteristic and featuring analysis.
 * To create the collaborative filtering recommendation by Singular Values Decompostion, dimentional reduction technique, proposed to recommend the anime to each user.
 
 ## Code and Resources Used
 __Python:__ 3.8.3                                                                                                                                  
 __Coding Tools:__ Jupyter, Google Colab                                                                                       
-__Package:__ pandas, numpy, matplotlib, seaborn, surprise, IPython.display, re                                                                                 
+__Package:__ pandas, numpy, matplotlib, seaborn, re, surprise, IPython.display                                                                                 
 __Surprise Desktop:__ http://surpriselib.com/                                                                                                       
 __Surprise Ducumentation:__ https://surprise.readthedocs.io/en/stable/                                                                        
-__Surprise Github:__ https://github.com/NicolasHug/Surprise
+__Surprise Github:__ https://github.com/NicolasHug/Surprise                                                            
+__Anime Dataset:__ [Dataset](https://github.com/Jino884/Anime_Recommender_System/tree/main/Data) or https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 ## Data Cleaning
 An anime dataset (for exploration)
