@@ -3,5 +3,5 @@
 * To create the collaborative filtering recommendation by Singular Values Decompostion, dimentional reduction technique, proposed to recommend the anime to each user
 
 # Code and Resources Used
-_Python:_ 3.8.3
+*Python:* 3.8.3
 
