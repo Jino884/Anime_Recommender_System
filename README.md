@@ -1,4 +1,4 @@
-## Data Science Project: Anime Recommender System
+# Data Science Project: Anime Recommender System
 * Exploring the anime dataset to overview the amine charasteristic and featuring analysis.
 * To create the collaborative filtering recommendation by Singular Values Decompostion, dimentional reduction technique, proposed to recommend the anime to each user.
 
