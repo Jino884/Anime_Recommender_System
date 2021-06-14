@@ -12,12 +12,13 @@ __Surprise Github:__ https://github.com/NicolasHug/Surprise
 __Anime Dataset:__ [Dataset](https://github.com/Jino884/Anime_Recommender_System/tree/main/Data) or https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 ## Data Cleaning
-An anime dataset (for exploration)
+An anime dataset (_anime.csv) (for exploration)
 * __genre__ -- fill null with the string "no detail".
 * __type__ -- fill null with the string "etc".
 * __episodes__ -- change value 1 to the string "movie"
 * __rating__ -- fill na with 0 that represent no data
 
-A rating dataset (for creating the model)
+A rating dataset (_rating_) (for creating the model)
 * __rating__ -- Change the value -1 to 0
 
+After cleaning data you will obtain anime_C.csv and rating_C.csv which are cleaned anime dataset nd cleaned rating dataset respectively.
