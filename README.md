@@ -27,5 +27,5 @@ After cleaning data you will obtain anime_C.csv and rating_C.csv which are clean
 
 ## EDA
 Follow the coding: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Exploratory.ipynb).        
-[](https://github.com/Jino884/Anime_Recommender_System/blob/main/types%20of%20anime.png)
+![](https://github.com/Jino884/Anime_Recommender_System/blob/main/types%20of%20anime.png)
 
