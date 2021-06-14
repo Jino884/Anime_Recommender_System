@@ -31,4 +31,4 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/genre.png" width="60%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/heat%20coor.png" width="31%" height="31%">
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/types%20of%20anime.png" width="40%" height="45%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top10%20highest%20averate%20rate.png" width="55%" height="54%">
                                                                                                      
-<img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mem.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mem.png" width="45%" height="55%">
+<img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mem.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mem.png" width="45%" height="60%">
