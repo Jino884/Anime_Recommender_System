@@ -2,7 +2,7 @@
 * Exploring the anime dataset to overview the amine charasteristic and featuring analysis.
 * To create the collaborative filtering recommendation by Singular Values Decompostion, dimentional reduction technique, proposed to recommend the anime to each user.
 
-## Code and Resources Used
+### Code and Resources Used
 __Python:__ 3.8.3                                                                                                                                  
 __Coding Tools:__ Jupyter, Google Colab                                                                                       
 __Package:__ pandas, numpy, matplotlib, seaborn, re, surprise, IPython.display                                                                                 
@@ -11,7 +11,7 @@ __Surprise Ducumentation:__ https://surprise.readthedocs.io/en/stable/
 __Surprise Github:__ https://github.com/NicolasHug/Surprise                                                            
 __Anime Dataset:__ [Dataset](https://github.com/Jino884/Anime_Recommender_System/tree/main/Data) or https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
-## Data Cleaning
+### Data Cleaning
 Follow the coding [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Cleaning.ipynb).                                       
 An anime dataset (_anime.csv) (for exploration)
 * __genre__ -- fill null with the string "no detail".
@@ -25,6 +25,6 @@ A rating dataset (_rating_) (for creating the model)
 
 After cleaning data you will obtain anime_C.csv and rating_C.csv which are cleaned anime dataset and cleaned rating dataset respectively.
 
-## EDA
+### EDA
 Follow the coding [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Data_Exploratory.ipynb).                                          
 
