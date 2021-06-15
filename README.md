@@ -33,8 +33,8 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mems.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mems.png" width="51%" height="100%">
 
 ## Model Building and Performance
-* The model: Matrix Factorization, Singular Value Decomposition
-_Follow the codinng_: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Modeling%20and%20testing.ipynb)
+* The model: Matrix Factorization, Singular Value Decomposition, 
+_Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Modeling%20and%20testing.ipynb)
 
 Evaluate | model: SVD
 ------------ | -------------
@@ -42,7 +42,8 @@ RMSE | 1.1472
 MAE | 0.8570
 
 ## Top-N recommendation to user.
-The examples to displays set of anime that recommended to each user.
+_Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/blob/main/Modeling%20and%20testing.ipynb)         
+The examples to displays set of anime that recommended to each user.          
 
 userID | An animes
 ------- | ---------
