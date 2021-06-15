@@ -43,3 +43,19 @@ Evaluate | model: SVD
 ------------ | -------------
 RMSE | 1.1472
 MAE | 0.8570
+
+## Top-N recommendation to user.
+The examples to displays set of anime that recommended to each user
+
+userID | An animes
+------- | ---------
+51593 |	[[Ginga Eiyuu Densetsu], [Baccano!], [Hunter x Hunter (2011)], [Mononoke], [Kino no Tabi: The Beautiful World]]
+46120 |	[[Clannad], [Clannad: After Story], [Code Geass: Hangyaku no Lelouch], [Full Metal Panic!], [Katanagatari]]
+70507 |	[[Steins;Gate], [Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare], [Gintama], [Gintama&#039;: Enchousen], [Shingeki no Kyojin]]
+56817 |	[[Toaru Majutsu no Index II], [Gintama°], [Code Geass: Hangyaku no Lelouch], [Kimi no Na wa.], [Toaru Majutsu no Index: Endymion no Kiseki]]
+60015 |	[[Zero no Tsukaima: Princesses no Rondo], [Angel Beats!], [Zero no Tsukaima: Futatsuki no Kishi], [Zero no Tsukaima], [Nogizaka Haruka no Himitsu]]
+38135 |	[[Neon Genesis Evangelion], [Steins;Gate], [Cowboy Bebop], [Kara no Kyoukai 5: Mujun Rasen], [Kiseijuu: Sei no Kakuritsu]]
+62881 |	[[Gintama], [Naruto], [Fairy Tail], [High School DxD], [Slam Dunk]]
+64898	[[K], [Little Busters!: Refrain], [Kuroko no Basket], [Kanojo x Kanojo x Kanojo: Sanshimai to no DokiDoki Kyoudou Seikatsu], [Machine-Doll wa Kizutsukanai]]
+65081	[[Code Geass: Hangyaku no Lelouch], [Steins;Gate], [Fullmetal Alchemist: Brotherhood], [Psycho-Pass], [Monogatari Series: Second Season]]
+60721	[[Aria The Origination], [Steins;Gate], [Shirobako], [Zan Sayonara Zetsubou Sensei], [Zan Sayonara Zetsubou Sensei Bangaichi]]
