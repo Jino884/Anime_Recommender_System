@@ -33,10 +33,14 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mems.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mems.png" width="51%" height="100%">
 
 ## Model Building
-
-
+* The model: Matrix Factorization, Singular Value Decomposition
 
 
 
 ## Model Performance
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
