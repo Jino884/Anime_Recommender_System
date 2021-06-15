@@ -30,6 +30,7 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/genre.png" width="60%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/heat%20coor.png" width="31%" height="31%">
 <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/types%20of%20animes.png" width="40%" height="45%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top10%20highest%20averate%20rates.png" width="54%" height="53%">
+<img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mems.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mems.png" width="51%" height="100%">
 
 ## Model Building
 
@@ -38,5 +39,4 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 
 
 ## Model Performance
-                                                                                                     
-<img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20big%20mems.png" width="45%" height="50%"> <img src="https://github.com/Jino884/Anime_Recommender_System/blob/main/top5%20small%20mems.png" width="51%" height="100%">
+
