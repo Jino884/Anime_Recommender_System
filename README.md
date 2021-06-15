@@ -39,7 +39,7 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 
 ## Model Performance
 
-Evaluate | 
+Evaluate | model: SVD
 ------------ | -------------
 RMSE | 1.1472
 MAE | 0.8570
