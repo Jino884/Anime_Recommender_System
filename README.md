@@ -39,8 +39,7 @@ _Follow the coding_: [here](https://github.com/Jino884/Anime_Recommender_System/
 
 ## Model Performance
 
-First Header | Second Header
+Evaluate | 
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
+RMSE | 1.1472
+MAE | 0.8570
